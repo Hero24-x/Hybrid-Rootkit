@@ -55,7 +55,7 @@ control → userland interface tool
 bash
 Copy
 Edit
-sudo ./installer.sh load
+| sudo ./installer.sh load |
 2. Hide a PID
 bash
 Copy
