@@ -49,10 +49,9 @@ invis_module.ko → kernel module
 control → userland interface tool
 
 -------------
-
-🚀 Usage
+``ymal ##🚀 Usage
 1. Load the Kernel Rootkit
-bash
+```bash
 Copy
 Edit
 | sudo ./installer.sh load |
